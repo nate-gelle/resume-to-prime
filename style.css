@@ -13,3 +13,9 @@ h2 {
 .name li {
   display: flex;
 }
+
+img {
+  background-color: #000000;
+  border: 2px solid black;
+}
+
