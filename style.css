@@ -12,6 +12,7 @@ h2 {
 
 .name li {
   display: flex;
+  flex-wrap: wrap;
 }
 
 img {
