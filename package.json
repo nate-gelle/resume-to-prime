@@ -1,0 +1,25 @@
+{
+  "name": "nate-gelle.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "startbootstrap-resume": "^4.1.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nate-gelle/nate-gelle.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nate-gelle/nate-gelle.github.io/issues"
+  },
+  "homepage": "https://github.com/nate-gelle/nate-gelle.github.io#readme"
+}
